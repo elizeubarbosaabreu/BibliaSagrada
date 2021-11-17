@@ -6,7 +6,7 @@ Olá é com muita satisfação que apresento esta versão da Bíblia Sagrada tot
 
 Este software usa a Biblioteca PySimpleGui para exibição gráfica e as libs beautifulsoup4 e requests para webscraping na internet atrás de texto bíblico...
 
-## Como Instalar a Bíblia Sabrada 
+## Como Instalar a Bíblia Sagrada 
 
 Clone este repositório:
  
