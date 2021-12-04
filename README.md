@@ -44,7 +44,7 @@ Note que apareceu um (.venv) antes do nome do usuário no terminal. Agora instal
  
 ~~~python
 
-pip install -r requirements.txt
+pip install -r requeriments.txt
 
 ~~~
 
